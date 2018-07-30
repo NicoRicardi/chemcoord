@@ -7,7 +7,7 @@
 # So there is no harm in having a key like e.g. 'first_discovery_of_element'
 # which is hardly used in everyday work.
 # But if there is only one other person in the world which does not have to
-# repeat your steps, # typing in those values by hand, it is already a win.
+# repeat your steps it is already a win.
 ###############################################################################
 from __future__ import (absolute_import, division, print_function,
                         unicode_literals, with_statement)
